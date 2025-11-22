@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Exel", "Csharp_Exel.csproj", "{BC2989AB-0F00-4E26-83CA-2AB52BFE6E25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25AD9168-F1BC-4210-A08F-F2CA87A0A3C8}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2989AB-0F00-4E26-83CA-2AB52BFE6E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2989AB-0F00-4E26-83CA-2AB52BFE6E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2989AB-0F00-4E26-83CA-2AB52BFE6E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2989AB-0F00-4E26-83CA-2AB52BFE6E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
