@@ -1,0 +1,14 @@
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\C_Sharp Module(exercises).GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\C_Sharp Module(exercises).AssemblyInfoInputs.cache
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\C_Sharp Module(exercises).AssemblyInfo.cs
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\C_Sharp Module(exercises).csproj.CoreCompileInputs.cache
+D:\C_Sharp Module(exercises)\bin\Debug\net8.0\C_Sharp Module(exercises).exe
+D:\C_Sharp Module(exercises)\bin\Debug\net8.0\C_Sharp Module(exercises).deps.json
+D:\C_Sharp Module(exercises)\bin\Debug\net8.0\C_Sharp Module(exercises).runtimeconfig.json
+D:\C_Sharp Module(exercises)\bin\Debug\net8.0\C_Sharp Module(exercises).dll
+D:\C_Sharp Module(exercises)\bin\Debug\net8.0\C_Sharp Module(exercises).pdb
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\C_Sharp Module(exercises).dll
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\refint\C_Sharp Module(exercises).dll
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\C_Sharp Module(exercises).pdb
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\C_Sharp Module(exercises).genruntimeconfig.cache
+D:\C_Sharp Module(exercises)\obj\Debug\net8.0\ref\C_Sharp Module(exercises).dll
